@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{BDB6D7DD-1FAD-41B1-A755-3CE1BAABFEE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseAccess", "Database\DatabaseAccess.csproj", "{0EE947E8-2964-4E3C-9CAE-A987F55A01A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDB6D7DD-1FAD-41B1-A755-3CE1BAABFEE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB6D7DD-1FAD-41B1-A755-3CE1BAABFEE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB6D7DD-1FAD-41B1-A755-3CE1BAABFEE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB6D7DD-1FAD-41B1-A755-3CE1BAABFEE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE947E8-2964-4E3C-9CAE-A987F55A01A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE947E8-2964-4E3C-9CAE-A987F55A01A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE947E8-2964-4E3C-9CAE-A987F55A01A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE947E8-2964-4E3C-9CAE-A987F55A01A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B178E4C-21C5-49F3-A160-E05ABF5AF704}
+	EndGlobalSection
+EndGlobal
